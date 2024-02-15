@@ -1,5 +1,7 @@
 **Project Title:** React Notes App
 
+![screenshot of React Notes App](./Images/Notes%20screenshot.png)
+
 **Description:**
 
 This React JS project was born from my journey into the React universe, guided by the excellent platform Scrimba. Through this project, I diligently explored and internalized React's core principles, including:
@@ -16,10 +18,9 @@ This React JS project was born from my journey into the React universe, guided b
 - Markdown Support: Write notes in a structured format for enhanced readability and organization.
 - Sync Across Devices: Keep your notes accessible on all your devices with seamless syncing.
 
-
 **License:**
 
- - MIT
+- MIT
 
 **Contributions:**
 
