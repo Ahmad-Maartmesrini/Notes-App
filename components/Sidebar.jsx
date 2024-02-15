@@ -1,5 +1,4 @@
 import React from "react";
-// import "react-mde/lib/styles/css/react-mde-all.css";
 
 export default function Sidebar(props) {
   const noteElements = props.notes.map((note, index) => (
