@@ -75,7 +75,7 @@ export default function App() {
   return (
     <main>
       {notes.length > 0 ? (
-        <Split sizes={[15, 85]} direction="horizontal" className="split">
+        <Split sizes={[35, 65]} direction="horizontal" className="split">
           <Sidebar
             notes={sortedNotes}
             currentNote={currentNote}

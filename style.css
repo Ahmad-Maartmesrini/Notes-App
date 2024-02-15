@@ -28,8 +28,6 @@ button:focus {
   height: 100vh;
 }
 
-
-
 .sidebar--header {
   display: flex;
   justify-content: space-around;
@@ -196,4 +194,14 @@ button:focus {
 
 .warning {
   margin-left: 15px;
+}
+
+@media (max-width: 400px) {
+  button,
+  input,
+  optgroup,
+  select,
+  textarea {
+    font-size: 150%;
+  }
 }
